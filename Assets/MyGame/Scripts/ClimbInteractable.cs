@@ -5,6 +5,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class ClimbInteractable : XRBaseInteractable
 {
+    public AudioSource AudioSource;
     protected override void OnSelectEntered(XRBaseInteractor interactor)
     {
         base.OnSelectEntered(interactor);
@@ -12,6 +13,8 @@ public class ClimbInteractable : XRBaseInteractable
         {
             Debug.Log(interactor, interactor);
             Climber.climbingHand = interactor.GetComponent<ActionBasedController>();
+            AudioSource.time = 1f;
+            AudioSource.Play();
         }       
     }
 
