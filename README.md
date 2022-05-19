@@ -29,4 +29,8 @@ For testing without a headset, use the XR Device Simulator (included in the xr i
 
 ### Limitations/Problems: 
 
-Copyright by smeerws :)
+### Sounds
+
+Music: https://www.bensound.com
+
+PopSound: https://www.youtube.com/watch?v=LnMhJU6RsYU
