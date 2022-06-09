@@ -1,8 +1,10 @@
-# HTL-VRProject with XRInteractionToolkit !Template!
+# HTL-VRProject with XRInteractionToolkit by Janine Sallmann
 
 ### Project description: 
-This project serves as sample project for spatial audio. 
-Explore sound in its basics in virtual reality (VR).
+Worum geht es in meinem Spiel?
+In meinem Spiel geht es darum, dass man endlich das Versteck des Osterhasen gefunden hat. Das Versteck ist in dem Fall das ganze Labyrinth und beim Ausgang befindet sich der Bau des Osterhasen, wo er die Eier bemalt usw. Das Ziel ist es also dem Osterhasen zu seinem eigentlichen Versteck, also seinem Bau, zu folgen. Auf dem Weg dahin gibt es jedoch 2 Rätsel/Hindernisse, die man lösen bzw. bewältigen muss, um es bis zum Ziel zu schaffen.
+![image](https://user-images.githubusercontent.com/100845843/172841515-7d1b09ad-3894-44a2-b4c7-2280b5e3f56e.png)
+
 
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit 1.0.0-pre.8, XR Plugin Management 4.2.1, Oculus XR Plugin 1.10.0.
@@ -26,11 +28,12 @@ Screenshots (concept and experience), Video
 ### Third party material: 
 
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
-
-### Limitations/Problems: 
-
 ### Sounds
 
 Music: https://www.bensound.com
 
 PopSound: https://www.youtube.com/watch?v=LnMhJU6RsYU
+
+### Limitations/Problems: 
+
+
