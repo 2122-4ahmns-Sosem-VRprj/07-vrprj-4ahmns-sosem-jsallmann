@@ -34,6 +34,12 @@ Music: https://www.bensound.com
 
 PopSound: https://www.youtube.com/watch?v=LnMhJU6RsYU
 
+### Packages
+
+The Realtime Rascals: https://assetstore.unity.com/packages/3d/the-realtime-rascals-191779
+Fantasy Forest Environment: https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361
+Hand Painted Nature Kit: https://assetstore.unity.com/packages/3d/environments/hand-painted-nature-kit-lite-69220
+
 ### Limitations/Problems: 
 
 
