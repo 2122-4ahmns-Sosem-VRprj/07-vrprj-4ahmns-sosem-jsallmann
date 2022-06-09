@@ -163,7 +163,6 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  debug: 0
   AudioSource: {fileID: 3593189643315420261}
 --- !u!54 &6218228013329404487
 Rigidbody:
@@ -206,7 +205,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6fb716e6b0b0a32479c4b55cc6d915e3, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.165
   m_Pitch: 1
   Loop: 0
   Mute: 0
