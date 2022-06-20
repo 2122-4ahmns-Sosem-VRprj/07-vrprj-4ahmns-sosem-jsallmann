@@ -37,9 +37,11 @@ PopSound: https://www.youtube.com/watch?v=LnMhJU6RsYU
 ### Packages
 
 The Realtime Rascals: https://assetstore.unity.com/packages/3d/the-realtime-rascals-191779
+
 Fantasy Forest Environment: https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361
+
 Hand Painted Nature Kit: https://assetstore.unity.com/packages/3d/environments/hand-painted-nature-kit-lite-69220
 
-### Limitations/Problems: 
+AllSky Free - 10 Sky / Skybox Set: https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
 
 
